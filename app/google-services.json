@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399690773556",
+    "firebase_url": "https://twitterc-o.firebaseio.com",
+    "project_id": "twitterc-o",
+    "storage_bucket": "twitterc-o.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399690773556:android:3dcc8465c81ed228e5c661",
+        "android_client_info": {
+          "package_name": "gurveen.com.twitterc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399690773556-vhp4dkneglc8k8a7bt009d34kto4vnq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gurveen.com.twitterc",
+            "certificate_hash": "ef0686191aa0a00746722d872cccb4da07ea1170"
+          }
+        },
+        {
+          "client_id": "399690773556-7o524kahh2hoken1lm6g84gtngn32ild.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdqRhZKkJzCmv1OVUpIKTRMnwmZioqW08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399690773556-7o524kahh2hoken1lm6g84gtngn32ild.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
